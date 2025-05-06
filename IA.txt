@@ -1,0 +1,3 @@
+Mnecionar que ocupé la IA "Claude" para que me ayudara a hacer los archivos php,
+ya que tenía muchos errores y no pude por mi propia cuenta. Además de pedirle que
+docuemntara el código.
